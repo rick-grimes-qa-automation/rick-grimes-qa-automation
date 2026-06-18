@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Rick%20Grimes&fontSize=70&fontAlignY=35&desc=QA%20Automatizador%20|%20Playwright%20|%20API%20Testing%20|%20CI/CD&descAlignY=51&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Luis%Zuluaga&fontSize=70&fontAlignY=35&desc=QA%20Automatizador%20|%20Playwright%20|%20API%20Testing%20|%20CI/CD&descAlignY=51&descSize=20)
 
 </div>
 
